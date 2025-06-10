@@ -1,3 +1,4 @@
-• Hi I’m @MohammadR3Z4 <br />
-• I like to develop new ideas <br />
-• I enjoy learning new skills <br />
+Hi, I’m @MohammadR3Z4 👋  
+Computer Engineering student  
+A passionate Frontend & Backend developer  
+Always eager to learn new technologies and create impactful projects.
